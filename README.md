@@ -1,1 +1,2 @@
-# Python-project contient toutes sortes de projets réalisé en Python.
+# Python-project
+Ce répertoire contient les projets que j'ai réalisé en python concernant des sujets intéressants concernant du machine learning, traitement de langage naturel...
